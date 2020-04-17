@@ -1,1 +1,2 @@
-line 1: i'm at Br1 
+line 1: i changed to Mater from Br1 to check Merge conflict
+/usr/bin/bash: wq: command not found
