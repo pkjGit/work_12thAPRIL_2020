@@ -1,2 +1,0 @@
-2.js  desktop.ini  TASK\ for\ 13th\ APRIL.txt  test2.html
-3.js  my1st.js	   test1.txt		       test2.txt
